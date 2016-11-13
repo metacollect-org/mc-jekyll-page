@@ -29,7 +29,6 @@ markdown: kramdown
 theme: metacollect
 gems:
   - jekyll-feed
-  - metacollect
 exclude:
   - Gemfile
   - Gemfile.lock
