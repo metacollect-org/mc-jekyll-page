@@ -3,4 +3,13 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
+title: metacollect
 ---
+
+{% tf vision.md %}
+
+{% tf mission.md %}
+
+{% tf media.md %}
+
+{% tf contact.md %}
