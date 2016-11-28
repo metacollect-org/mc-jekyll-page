@@ -28,7 +28,7 @@ github_username:  metacollect-org
 
 # Build settings
 markdown: kramdown
-theme: metacollect
+theme: minima
 gems:
   - jekyll-feed
   - jekyll-multiple-languages-plugin

@@ -1,9 +1,3 @@
-GIT
-  remote: https://github.com/metacollect-org/mc-jekyll-theme.git
-  revision: 266c528dbca611e832ee32085344788799fdd901
-  specs:
-    metacollect (0.1.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -37,6 +31,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    minima (2.0.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.4)
@@ -54,7 +49,7 @@ DEPENDENCIES
   jekyll (= 3.3.0)
   jekyll-feed (~> 0.6)
   jekyll-multiple-languages-plugin
-  metacollect!
+  minima (~> 2.0)
 
 RUBY VERSION
    ruby 2.3.1p112
